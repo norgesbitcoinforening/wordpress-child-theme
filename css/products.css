@@ -1,0 +1,29 @@
+/*
+Theme Name:     Norges bitcoinforening
+Description:    Child theme
+Author:         Nicholas
+Template:       Divi
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+/*****************PRODUCTS********************/
+.et_shop_image .et_overlay{
+	display: none;
+}
+.woocommerce-ordering{
+	display:none;
+}
+ul.products{
+	border-bottom:1px solid #222;
+}
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product{
+	padding: 20px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+	    transition: 0.2s all ease;
+}
+.woocommerce ul.products li.product:hover, .woocommerce-page ul.products li.product:hover{
+	box-shadow: 2px 2px 5px rgb(243, 146, 30);
+}
+.woocommerce ul.products li.product h3, .woocommerce-page ul.products li.product h3{
+	color:#bb8400;
+}
