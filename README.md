@@ -1,1 +1,1 @@
-# wordpress-child-theme
+# Child theme for Norgesbitcoinforening.no
