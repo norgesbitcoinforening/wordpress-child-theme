@@ -1,0 +1,5 @@
+.bitmynt input[type=text], .bitmynt input.text, .bitmynt input.title, .bitmynt textarea, .bitmynt select, .bitmynt input[type=email] {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #ffb401;
+}

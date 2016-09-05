@@ -58,5 +58,6 @@ jQuery('#cta .header-content a').on('click',function(){
 });
 
 </script>
+<script src="/wp-content/themes/norges-bitcoinforening/js/bitcoinaverage.js"></script>
 </body>
 </html>
